@@ -1,0 +1,22 @@
+{
+  "name": "a01",
+  "version": "1.0.0",
+  "description": "\"Mythology of Magic The Gathering\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-JaredECohen.git"
+  },
+  "author": "\"Jared Cohen\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-JaredECohen/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-JaredECohen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
